@@ -1,4 +1,4 @@
-package class6;
+package chapter6;
 
 public class Book {
 
